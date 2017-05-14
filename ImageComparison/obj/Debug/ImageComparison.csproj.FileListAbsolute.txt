@@ -1,0 +1,11 @@
+C:\Users\sifan\Desktop\ImageComparison\ImageComparison\obj\Debug\ImageComparison.exe
+C:\Users\sifan\Desktop\ImageComparison\ImageComparison\obj\Debug\ImageComparison.pdb
+C:\Users\sifan\Desktop\ImageComparison\ImageComparison\bin\Debug\ImageComparison.exe
+C:\Users\sifan\Desktop\ImageComparison\ImageComparison\bin\Debug\ImageComparison.pdb
+C:\Users\sifan\Desktop\ImageComparison\ImageComparison\obj\Debug\ImageComparison.csprojResolveAssemblyReference.cache
+C:\Users\sifan\Desktop\ImageComparison\ImageComparison\obj\Debug\ImageComparison.Form1.resources
+C:\Users\sifan\Desktop\ImageComparison\ImageComparison\obj\Debug\ImageComparison.Properties.Resources.resources
+C:\Users\sifan\Desktop\ImageComparison\ImageComparison\obj\Debug\ImageComparison.csproj.GenerateResource.Cache
+C:\Users\sifan\Desktop\ImageComparison\ImageComparison\obj\Debug\ImageComparison.Form2.resources
+E:\c sharp\c sharp based project\ImageComparison\ImageComparison\obj\Debug\ImageComparison.exe
+E:\c sharp\c sharp based project\ImageComparison\ImageComparison\obj\Debug\ImageComparison.pdb
